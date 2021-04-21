@@ -1,0 +1,7 @@
+{
+    "/assignment": {
+        "target": "https://clstorageapp.blob.core.windows.net",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
